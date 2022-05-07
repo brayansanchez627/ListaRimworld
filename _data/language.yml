@@ -1,10 +1,10 @@
 # Tabs
 items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+events_tab: 'Eventos'
+traits_tab: 'Rasgos'
+animals_tab: 'Animales'
+weapons_tab: 'Armas'
+pawn_kinds_tab: 'Tipo de colono'
 
 # Table headers
 mod_name_header: Mod Name
@@ -21,25 +21,25 @@ remove_cost_header: Remove Cost
 name_header: Name
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Estos no son los comandos que buscas.'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
-see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_traits: 'Ver precios en la sección de características'
+see_kinds: 'Ver precios en la sección de tipos de colono'
+see_items: 'Ver precios en la sección de artículos'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'Buscar por items...'
+search_traits: 'Buscar por rasgos...'
+search_pawn_kinds: 'Buscar por tipo de colono...'
+search_mods: 'Buscar por mods...'
+search_commands: 'Buscar por comandos...'
+search_animals: 'Buscar por animales...'
+search_events: 'Buscar por eventos...'
+search_weapons: 'Buscar por armas...'
 
 # Metadata
-usage: 'Usage: %s'
+usage: 'Rasgo: %s'
 shortcut: 'This is a shortcut for %s'
 stats: 'Stats'
 conflicts_with: 'Conflicts with'
